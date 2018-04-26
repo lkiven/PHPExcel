@@ -92,8 +92,8 @@ function export($rearr) {
  */
 //示例
 $arr = [
-    0=>['title'=>'我是标题一','content'=>'我是内容一','time'=>'2018:4:26','status'=>'在线' ],
-    1=>['title'=>'我是标题二','content'=>'我是内容二','time'=>'2018:4:25','status'=>'离线' ]
+    0=>['title'=>'我是标题一','content'=>'我是内容一','time'=>'2018:4:26','status'=>'在线'],
+    1=>['title'=>'我是标题二','content'=>'我是内容二','time'=>'2018:4:25','status'=>'离线']
 
 ];
 export($arr);
